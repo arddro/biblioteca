@@ -86,6 +86,10 @@ public class BibliotecaMain {
         clientiDao.deleteById(8);
 
 
+
+
+
+
     }
 
 
